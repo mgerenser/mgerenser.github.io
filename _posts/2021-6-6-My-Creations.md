@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some of my latest creations!
+title: Some of my Latest Creations!
 ---
 
 {% include omg_gallery.html folder="resources" %}
