@@ -29,6 +29,6 @@ title: Some of my Latest Creations!
   &:hover {
     transform: scale(1.05);
   }
+</style>
 
 {% include omg_gallery.html folder="resources" %}
-</style>
